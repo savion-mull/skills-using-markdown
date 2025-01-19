@@ -30,3 +30,13 @@ int main() {
   return 0;
 }
 ```
+
+## Task List:
+
+---
+
+- [ ] Complete Github Education Tutorials
+- [ ] Start a New Project in Github
+- [ ] Make your first Contribution
+
+---
